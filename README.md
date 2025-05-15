@@ -1,0 +1,1 @@
+This repository contains two projects from MSCS341: Algorithms for Decision Making course (1 group project, 1 final individual project). More details about the projects can be seen in the appropriate folders.
